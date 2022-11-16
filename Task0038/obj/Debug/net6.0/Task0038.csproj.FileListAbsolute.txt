@@ -1,0 +1,15 @@
+C:\HW20221110\Task0038\bin\Debug\net6.0\Task0038.exe
+C:\HW20221110\Task0038\bin\Debug\net6.0\Task0038.deps.json
+C:\HW20221110\Task0038\bin\Debug\net6.0\Task0038.runtimeconfig.json
+C:\HW20221110\Task0038\bin\Debug\net6.0\Task0038.dll
+C:\HW20221110\Task0038\bin\Debug\net6.0\Task0038.pdb
+C:\HW20221110\Task0038\obj\Debug\net6.0\Task0038.csproj.AssemblyReference.cache
+C:\HW20221110\Task0038\obj\Debug\net6.0\Task0038.GeneratedMSBuildEditorConfig.editorconfig
+C:\HW20221110\Task0038\obj\Debug\net6.0\Task0038.AssemblyInfoInputs.cache
+C:\HW20221110\Task0038\obj\Debug\net6.0\Task0038.AssemblyInfo.cs
+C:\HW20221110\Task0038\obj\Debug\net6.0\Task0038.csproj.CoreCompileInputs.cache
+C:\HW20221110\Task0038\obj\Debug\net6.0\Task0038.dll
+C:\HW20221110\Task0038\obj\Debug\net6.0\refint\Task0038.dll
+C:\HW20221110\Task0038\obj\Debug\net6.0\Task0038.pdb
+C:\HW20221110\Task0038\obj\Debug\net6.0\Task0038.genruntimeconfig.cache
+C:\HW20221110\Task0038\obj\Debug\net6.0\ref\Task0038.dll

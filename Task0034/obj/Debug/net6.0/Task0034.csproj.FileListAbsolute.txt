@@ -1,0 +1,15 @@
+C:\HW20221110\Task0034\bin\Debug\net6.0\Task0034.exe
+C:\HW20221110\Task0034\bin\Debug\net6.0\Task0034.deps.json
+C:\HW20221110\Task0034\bin\Debug\net6.0\Task0034.runtimeconfig.json
+C:\HW20221110\Task0034\bin\Debug\net6.0\Task0034.dll
+C:\HW20221110\Task0034\bin\Debug\net6.0\Task0034.pdb
+C:\HW20221110\Task0034\obj\Debug\net6.0\Task0034.csproj.AssemblyReference.cache
+C:\HW20221110\Task0034\obj\Debug\net6.0\Task0034.GeneratedMSBuildEditorConfig.editorconfig
+C:\HW20221110\Task0034\obj\Debug\net6.0\Task0034.AssemblyInfoInputs.cache
+C:\HW20221110\Task0034\obj\Debug\net6.0\Task0034.AssemblyInfo.cs
+C:\HW20221110\Task0034\obj\Debug\net6.0\Task0034.csproj.CoreCompileInputs.cache
+C:\HW20221110\Task0034\obj\Debug\net6.0\Task0034.dll
+C:\HW20221110\Task0034\obj\Debug\net6.0\refint\Task0034.dll
+C:\HW20221110\Task0034\obj\Debug\net6.0\Task0034.pdb
+C:\HW20221110\Task0034\obj\Debug\net6.0\Task0034.genruntimeconfig.cache
+C:\HW20221110\Task0034\obj\Debug\net6.0\ref\Task0034.dll
